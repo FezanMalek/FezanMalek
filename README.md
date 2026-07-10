@@ -29,9 +29,8 @@
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourwebsite.com)  
-- 📧 Email: yourname@example.com  
+- [LinkedIn](https://www.linkedin.com/in/fezan-malek-08b104268/)  
+- 📧 Email: maleksajid694il@gmail.com  
 
 ---
 ✨ *Ethical hacking is not just a skill, it's a mindset!*
